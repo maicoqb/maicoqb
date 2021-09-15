@@ -37,9 +37,6 @@ Valorizo muito meu tempo de vida fora do escritório, gosto de atividades ao ar 
 
 Sou um desenvolvedor de software que encontrou na área de gestão novos desafios e a oportunidade de atingir o meu objetivo pessoal de forma mais ampla.
 
-Atualmente sou Engineer Lead na [Creditas](https://www.creditas.com/). Aqui faço parte de uma squad multidisciplinar responsável por uma plataforma de suporte para as demais áreas fornecendo ferramentas para fins regulatórios, de liquidação, conciliação, PLD e afins.
-
-
 ## To be continued...
 
 Como disse, este conteúdo está sempre em construção. Por enquanto decidi pelo menos iniciar ele. Acho que essas informações aí são o começo de algo.
